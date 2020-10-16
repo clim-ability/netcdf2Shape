@@ -1,0 +1,15 @@
+....
+
+
+1. R-Tool 
+Konvertiert nc files zu Punkt-Vectoren
+
+(TODO: Batch, layer and var names)
+
+2. Import to QGIS
+ Use Vronoi (Vector-tools) to expand to rectangles
+ Cut by Oberrheinregion
+
+3. Store in DB
+ Ensure numbering by coordinate match 
+   
